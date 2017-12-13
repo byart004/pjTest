@@ -1,0 +1,15 @@
+*{
+	font-family: 'Kanit', sans-serif;
+}
+.panel-info>.panel-heading {
+	color: #000;
+  background-color: #9898fb;
+  border-color: #000;
+}
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 4px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+		font-family: 'Kanit', sans-serif;
+}
